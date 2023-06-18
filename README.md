@@ -108,10 +108,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the [MIT License](LICENSE).
 
-Contact
+## Contact
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
 
-Name: RAkshith S
-Email: rakshiths2001@gmail.com
+* Name: RAkshith S
+* Email: rakshiths2001@gmail.com
 
 Thank you for using the MUSIC GENRE CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES
